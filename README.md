@@ -90,7 +90,7 @@ AgriMart is a comprehensive agricultural marketplace platform that revolutionize
 
 1. **Clone and Setup Repository**
    ```bash
-   git clone https://github.com/your-org/agrimart.git
+   git clone https://github.com/Benardkosgei/AgriMart-Platform.git
    cd agrimart
    
    # Create virtual environment
