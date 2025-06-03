@@ -432,9 +432,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support & Community
 
 ### Getting Help
-- **Documentation**: [Complete API Docs](https://docs.agrimart.com)
+- **Documentation**: [Complete API Docs](#)
 - **GitHub Issues**: Report bugs and request features
-- **Community Forum**: [Discord Server](https://discord.gg/agrimart)
+- **Community Forum**: [Discord Server](#)
 - **Email Support**: support@agrimart.com
 
 ### Professional Services
@@ -476,7 +476,7 @@ Special thanks to the open-source community and these amazing projects:
 
 *Revolutionizing agricultural commerce with AI-powered quality assessment*
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-org/agrimart?style=social)](https://github.com/your-org/agrimart)
-[![Follow](https://img.shields.io/twitter/follow/agrimart?style=social)](https://twitter.com/agrimart)
+[![GitHub Stars](https://img.shields.io/github/stars/Benardkosgei/AgriMart-Platform.git?style=social)](https://github.com/Benardkosgei/AgriMart-Platform.git)
+ 
 
 </div>
