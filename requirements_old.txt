@@ -1,0 +1,85 @@
+# Core Django packages
+Django
+djangorestframework
+django-cors-headers
+django-filter
+
+# Image processing and computer vision
+Pillow
+opencv-python
+
+# Machine Learning and YOLO
+ultralytics
+torch
+torchvision
+
+# Database
+psycopg2-binary
+django-extensions
+
+# Caching and Background Tasks
+redis
+django-redis
+celery
+django-celery-beat
+django-celery-results
+
+# Authentication and Security
+django-allauth
+django-otp
+qrcode
+cryptography
+django-ratelimit
+
+# Payment Processing
+requests
+python-mpesa
+
+# Communication
+django-smtp-ssl
+twilio
+channels
+channels-redis
+
+# File Storage and Media
+django-storages
+boto3
+
+# Search and Recommendations
+django-haystack
+elasticsearch
+scikit-learn
+
+# Analytics and Monitoring
+django-silk
+sentry-sdk
+django-prometheus
+
+# API Documentation
+drf-yasg
+markdown
+
+# Utilities
+python-decouple
+numpy
+pandas
+openpyxl
+reportlab
+python-dateutil
+
+# Geographic
+geoip2
+django-geoposition
+
+# Development tools
+black
+flake8
+pytest
+pytest-django
+factory-boy
+coverage
+
+# Production
+gunicorn
+whitenoise
+django-health-check
