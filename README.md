@@ -476,7 +476,7 @@ Special thanks to the open-source community and these amazing projects:
 
 *Revolutionizing agricultural commerce with AI-powered quality assessment*
 
-[![GitHub Stars](https://img.shields.io/github/stars/Benardkosgei/AgriMart-Platform.git?style=social)](https://github.com/Benardkosgei/AgriMart-Platform.git)
- 
+[![GitHub Stars](https://img.shields.io/github/stars/your-org/agrimart?style=social)](https://github.com/Benardkosgei/AgriMart-Platform)
+[![Follow](https://img.shields.io/twitter/follow/agrimart?style=social)](https://twitter.com/agrimart)
 
 </div>
